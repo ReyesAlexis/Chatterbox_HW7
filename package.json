@@ -21,7 +21,7 @@
       ]
     ]
   },
-  "author": "Richard Stanley",
+  "author": "Alexis Reyes",
   "license": "MIT",
   "dependencies": {
     "parcel": "^1.12.4",
